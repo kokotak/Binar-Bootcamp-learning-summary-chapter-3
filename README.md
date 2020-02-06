@@ -10,4 +10,7 @@ sementara **_Val_** adalah immutabble reference yang artinya nilai yang ada tida
 Gunakan Var untuk yg bisa di edit misalnya nama pengguna, alamat, warna mobil dsb.
 Gunakan Val untuk nilai yang biasanya permanen misalnya ID User, Jumlah ban Mobil, nilai Phi(3,14), dsb.
 
-* 
+* Syntax function di kotlin
+=> _Fun __namaFunction__ (parameter) {
+  return data
+  }
